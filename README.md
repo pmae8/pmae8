@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mae and I'm an Aspiring Front-end developer, from The Philippines</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Precious+Mae!;" />
+</h1>
+
+<h3 align="left">I'm an Aspiring Front-end developer</h3>
 
 ###
 
@@ -39,7 +43,7 @@
   <a href="www.instagram.com/pmae8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="preciousmae0508@gmail.com" target="_blank">
+  <a href="mailto:preciousmae0508@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pmae8/" target="_blank">
